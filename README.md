@@ -1,2 +1,2 @@
 # GitPeom
-A git repo for learning puposes
+A git repo for learning purposes.
